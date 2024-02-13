@@ -1,4 +1,9 @@
-### Hi there 👋
+# Flo Sargent
+
+## Studying Computational Neuroscience and Cognitive Robotics
+
+### BSc in Neuroscience
+### SCQF Level 8 in Cyber Security and Computer Science
 
 <!--
 **Sragnet/Sragnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
