@@ -1,7 +1,8 @@
 # Flo Sargent
 
-## Studying Computational Neuroscience and Cognitive Robotics
+## PhD Student
 
+### MSc in Computational Neuroscience and Cognitive Robotics
 ### BSc in Neuroscience
 ### SCQF Level 8 in Cyber Security and Computer Science
 
